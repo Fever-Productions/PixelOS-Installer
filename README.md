@@ -18,7 +18,7 @@ An automated, GUI-based tool to easily install PixelOS (and other custom ROMs) o
 * **USB Drivers** installed (Google/Universal ADB Drivers).
 
 ## 📥 Installation
-1.  Download the latest release from the [Releases Page](#releases).
+1.  Download the latest release from the [Releases Page](https://github.com/Fever-Productions/PixelOS-Installer/releases).
 2.  Extract the ZIP file.
 3.  Run `PixelOS_Installer.exe`.
 4.  Ensure your `bin` folder (containing ADB/Fastboot) is in the same directory as the executable.
