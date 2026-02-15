@@ -48,7 +48,7 @@ If you want to run the python script directly or build your own EXE:
 
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/yourusername/PixelOS-Installer.git](https://github.com/yourusername/PixelOS-Installer.git)
+    git clone https://github.com/Fever-Productions/PixelOS-Installer.git
     ```
 2.  Install dependencies (Updated for AI features):
     ```bash
